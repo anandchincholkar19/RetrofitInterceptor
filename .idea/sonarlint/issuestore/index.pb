@@ -1,0 +1,25 @@
+
+r
+Bapp/src/main/java/com/example/retrofitinterceptor/utility/Utils.kt,3\6\36d8b21bdc840590c383031a5a3c1e3f8ad672ac
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+o
+?app/src/main/java/com/example/retrofitinterceptor/model/Todo.kt,a\a\aaee97c56cb76beea3c2cf6de1b6ed19b3d6d4fb
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+v
+Fapp/src/main/java/com/example/retrofitinterceptor/view/MainActivity.kt,d\9\d9d097321720646096294a93448b2ca6cfeba7bc
+Œ
+\app/src/main/java/com/example/retrofitinterceptor/webservicecommunication/RetrofitBuilder.kt,9\c\9ce912b15d1b7ee6c764cd3cdb107651313a9889
+‡
+Wapp/src/main/java/com/example/retrofitinterceptor/webservicecommunication/ApiService.kt,a\f\af17866771614af6917688613c0be85721ae68e1
+|
+Lapp/src/main/java/com/example/retrofitinterceptor/viewmodel/DemoViewModel.kt,9\e\9e33a4ff321e3ccdea0c0a6af478c17269f60329
+Œ
+\app/src/main/java/com/example/retrofitinterceptor/webservicecommunication/ResponseHandler.kt,5\a\5a853656b15d8df2a5dac4b7fb020ffebf6bb76d
+…
+Uapp/src/main/java/com/example/retrofitinterceptor/webservicecommunication/Resource.kt,b\e\be7b92f7767cf92c7b6856a135d1c337164b0e90
+ƒ
+Sapp/src/main/java/com/example/retrofitinterceptor/webservicecommunication/Result.kt,a\8\a85da4fe624dbc07da33f62f15794da638ebd2f6
+‚
+Rapp/src/main/java/com/example/retrofitinterceptor/repository/RetrofitRepository.kt,2\b\2b5a9ef4bb44d0050de29a3f6af9bfcf26fc2cbb
